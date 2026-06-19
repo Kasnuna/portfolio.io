@@ -8,8 +8,5 @@
 - 🎯 Fun fact: I picked up most of my skills through self-study and school modules.
 - 🏅 Certified in: Cisco IT Essentials and Fortinet Cybersecurity essentials (verified on Credly)
 
-Talk to me: <br>
-'Kingler189@Gmail.com'
-
 Languages Learned:
 Python, Html, linux, react and laravel frameworks
